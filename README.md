@@ -9,7 +9,7 @@
 * Ultilize a extensão do Live Server para visualizar no seu navegador.
 
 ### O Projeto
-Foi desenvolvido através do curso "JavaScript: manipulando o DOM" da plataforma da Alura com o objetivo de manipular dados com DOM. O foco do curso foi com a linguegem Javascript. Nele é possível alterar seus campos de forma dinâmica formando um "robô" de combate com especificações que você precisa para combater os aliens que ameaça a terra. 
+Foi desenvolvido através do curso "JavaScript: manipulando o DOM" da plataforma da Alura com o objetivo de manipular dados com DOM. O foco do curso foi com a linguagem Javascript. Nele é possível alterar seus campos de forma dinâmica formando um "robô" de combate com especificações que você precisa para combater os aliens que ameaça a terra. 
 
 > No curso JavaScript: manipulando o DOM, eu aprendi:
 > * Entenda a interação do JavaScript com HTML e CSS.
