@@ -1,11 +1,30 @@
-# robotron-2000
+# Robotron 2099
+
+<fig>
+     <img src="https://i.imgur.com/YpXh4Bo.png" width="100%">
+</fig>
+
+### Inicialização
+* Para executar o projeto, utilize o [VS Code](https://code.visualstudio.com/) - IDE para desenvolvimento.
+* Ultilize a extensão do Live Server para visualizar no seu navegador.
+
+### O Projeto
+Foi desenvolvido através do curso "JavaScript: manipulando o DOM" da plataforma da Alura com o objetivo de manipular dados com DOM. O foco do curso foi com a linguegem Javascript. Nele é possível alterar seus campos de forma dinâmica formando um "robô" de combate com especificações que você precisa para combater os aliens que ameaça a terra. 
+
+> No curso JavaScript: manipulando o DOM, eu aprendi:
+> * Entenda a interação do JavaScript com HTML e CSS.
+> * Utilize o JavaScript em uma página real
+> * Aprenda a tornar uma página dinâmica
+> * Manipule dados, eventos e elementos com JavaScript
+> * Entenda como o JavaScript trabalha
+> * Construa robôs para salvar o planeta Terra de uma invasão alienígena
+> * Explore, crie e declare funções no JavaScript
 
 **Comandos Usados**
+
 `document` cria um novo objeto Document que é uma página da Web carregada no navegador e servindo como um ponto de entrada no conteúdo da página em HTML.
 
 `querySelector` é um método que retorna o primeiro Elemento dentro do documento que corresponde ao seletor especificado ou grupo de seletores.
-
-`querySelectorAll`
 
 `const` A declaração const cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura. Isso não significa que o valor é imutável, apenas que a variável constante não pode ser alterada ou retribuída.
 
@@ -25,3 +44,8 @@
 
 `data-attributes` são utilizados para guardar valores em elementos HTML. Esses valores podem ser manipulados através do JavaScript. Também é possível estilizar elementos HTML com CSS referenciando o seu data-attribute.
 
+[Fonte: Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+[SITE NO AR:]()
+
+## Obrigada!
